@@ -9,15 +9,18 @@ on:
         default: 'warning'
 
 jobs:
-  release:
-    runs-on: "ubuntu-latest"
+  build:
+    name: Publish binaries
+    runs-on: ubuntu-latest
 
     steps:
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - uses: actions/checkout@v2
+    - name: Upload dictionaryIndices to release
+      uses: svenstaro/upload-release-action@v2
       with:
-        repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "current_dev"
-        prerelease: false
-        title: "Current release"
-        files: |
-          dictionaryIndices.md
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: dictionaryIndices.md
+        asset_name: dictionaryIndices.md
+        tag: "current"
+        overwrite: true
+        body: "dictionaryIndices latest"
