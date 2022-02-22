@@ -17,7 +17,6 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-kannada/gh-pages/en-head/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-divehi/gh-pages/dv-head/en-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-prakrit/gh-pages/prakrit-head/hi-entries/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-telugu/gh-pages/te-head/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-telugu/gh-pages/te-head/te-entries_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-telugu/gh-pages/te-head/en-entries_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-telugu/gh-pages/en-head/tars/tars.MD>
