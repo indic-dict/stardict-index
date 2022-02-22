@@ -55,5 +55,7 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-bengali/gh-pages/bn-head_dev-script/bn-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/gu-head/gu-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/gu-head_dev-script/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/en-head/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/en-head_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-kashmiri/gh-pages/ks-head/en-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-urdu/gh-pages/ur-head/en-entries/tars/tars.MD>
