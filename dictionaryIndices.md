@@ -30,9 +30,9 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/ta-head/ta-entries_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/en-head/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/en-head_en-script/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/en-entries/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/other-entries/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/other-head/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/en-entries/tars/tars_external.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/other-entries/tars/tars_external.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/other-head/tars/tars_external.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-marathi/gh-pages/ma-head/ma-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-marathi/gh-pages/ma-head/other-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-nepali/gh-pages/ne-head/en-entries/tars/tars.MD>
