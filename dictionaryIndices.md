@@ -30,6 +30,7 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/ta-head/ta-entries_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/en-head/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/en-head_en-script/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-tamil/gh-pages/en-head_dev-script/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/en-entries/tars/tars_external.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/other-entries/tars/tars_external.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/other-head/tars/tars_external.MD>
