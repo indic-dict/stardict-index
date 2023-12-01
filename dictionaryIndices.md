@@ -10,10 +10,23 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit/gh-pages/sa-head/en-entries/tars/tars.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit/gh-pages/en-head/tars/tars.MD>  
 
-### kAvya vyAkaraNa etc.. संस्कृत-काव्यादि
+### kAvya  etc.. संस्कृत-काव्यादि
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-kAvya/gh-pages/tars/tars.MD>  
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tars/tars.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-ayurveda/gh-pages/tars/tars.MD>  
+
+
+### vyAkaraNa
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/dhAtu/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/misc/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/aShTAdhyAyI/tars/tars.MD>
+
+#### tiNanta
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/vidyut/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/sanskritabhyas/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/misc/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/aShTAdhyAyi_com/tars/tars.MD>
 
 ## North Indian IA
 ### hindI
