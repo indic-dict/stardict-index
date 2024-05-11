@@ -114,7 +114,7 @@
 
 ## English
 <https://raw.githubusercontent.com/indic-dict/stardict-english/master/en-head/en-entries/tars/tars_external.MD>  
+<https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/en-head/other-entries/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-english/master/en-head/other-entries/tars/tars_external.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-english/master/other-head/tars/tars_external.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-english/master/other-head/tars/tars.MD>
 
