@@ -119,4 +119,4 @@
 <https://raw.githubusercontent.com/indic-dict/stardict-english/gh-pages/other-head/tars/tars_external.MD>
 
 ## Tibetan
-<https://raw.githubusercontent.com/indic-dict/stardict-tibetan/master/bo-head/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-tibetan/gh-pages/bo-head/tars/tars.MD>
