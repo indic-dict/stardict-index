@@ -18,9 +18,10 @@
 ### vyAkaraNa
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/dhAtu/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/misc/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/aShTAdhyAyI/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/misc/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/vidyut/tars/tars.MD>
 
 #### tiNanta
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/vidyut/tars/tars.MD>
