@@ -16,19 +16,29 @@
 
 
 ### vyAkaraNa
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/misc/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/vidyut/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/dhAtu/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/misc/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/aShTAdhyAyI/tars/tars.MD>
+
+#### kRdanta
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/misc/tars/tars.MD>
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/kRdanta/vidyut/tars/tars.MD>
 
+#### taddhitAnta
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/taddhitAnta/vidyut_ach/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/taddhitAnta/vidyut_kcTtp/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/taddhitAnta/vidyut_yal/tars/tars.MD>
+
+
+#### subanta
+Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/misc/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/subanta/vidyut/tars/tars.MD>
+
 #### tiNanta
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/vidyut/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/sanskritabhyas/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/misc/tars/tars.MD>
-<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/aShTAdhyAyi_com/tars/tars.MD>
+Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/sanskritabhyas/tars/tars.MD>
+Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/misc/tars/tars.MD>
+Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/aShTAdhyAyi_com/tars/tars.MD>
 
 ## North Indian IA
 ### hindI
