@@ -36,8 +36,8 @@ Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkar
 
 #### tiNanta
 <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/vidyut/tars/tars.MD>
+<https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/misc/tars/tars.MD>
 Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/sanskritabhyas/tars/tars.MD>
-Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/misc/tars/tars.MD>
 Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkaraNa/gh-pages/tiNanta/aShTAdhyAyi_com/tars/tars.MD>
 
 ## North Indian IA
