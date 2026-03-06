@@ -64,7 +64,11 @@ Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkar
 <https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/gu-head_dev-script/tars/tars.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/en-head/tars/tars.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-gujarati/gh-pages/en-head_dev-script/tars/tars.MD>  
+
+### Kashmiri
 <https://raw.githubusercontent.com/indic-dict/stardict-kashmiri/gh-pages/ks-head/en-entries/tars/tars.MD>  
+
+### Urdu
 <https://raw.githubusercontent.com/indic-dict/stardict-urdu/gh-pages/ur-head/en-entries/tars/tars.MD>
 
 ### Marathi
@@ -77,7 +81,6 @@ Disabled: <https://raw.githubusercontent.com/indic-dict/stardict-sanskrit-vyAkar
 <https://raw.githubusercontent.com/indic-dict/stardict-oriya/gh-pages/or-head_dev-script/tars/tars.MD>  
 
 ### Assam
-
 <https://raw.githubusercontent.com/indic-dict/stardict-assamese/gh-pages/as-head/en-entries/tars/tars.MD>  
 <https://raw.githubusercontent.com/indic-dict/stardict-assamese/gh-pages/as-head_dev-script/en-entries/tars/tars.MD>  
 
